@@ -1,0 +1,17 @@
+#tablepress_edit-table-data table#edit-form{
+  width:100%;
+}
+.tablepress-all-tables tbody .column-table_id{
+	width: 150px;
+}
+table.tablepress-all-tables{
+    table-layout: auto!important;
+}
+/*
+#edit-form-body .head-row{
+	font-weight: bold;
+}
+#edit-form-body .head-row textarea{
+	pointer-events : none;
+}
+*/

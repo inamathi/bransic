@@ -1,0 +1,10 @@
+#画像ファイルをignore
+/uploads/
+/Search-Replace-DB-master/
+20200318_new/wp-content/uploads/
+
+*.mov
+*.png
+*.jpg
+
+
