@@ -337,3 +337,6 @@ function my_connection_types() {
         ) );
 }
 add_action( 'p2p_init', 'my_connection_types' );
+
+/* リロード時にSCSSコンパイラを行う*/
+define('WP_SCSS_ALWAYS_RECOMPILE', true);

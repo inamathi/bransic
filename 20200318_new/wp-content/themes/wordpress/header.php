@@ -61,6 +61,9 @@
 					</div>
 				</li>
 				<li>
+					<a href="<?php echo home_url(); ?>/Access">Access</a>
+				</li>
+				<li>
 					<a href="<?php echo home_url(); ?>/company">Company</a>
 				</li>
 				<li>

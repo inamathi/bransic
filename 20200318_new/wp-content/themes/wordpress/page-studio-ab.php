@@ -1,12 +1,11 @@
 <?php /*
-   Template Name:studio
+   Template Name:studio-ab
 */ ?>
 <?php get_header(); ?>
 <section id="studio-area" class="">
 
-	<h2 class="main-ttl">Studio<span>Rec・Mixスタジオ紹介</span></h2>
+	<h2 class="main-ttl">Studio A･B<span>Rec・Mixスタジオ紹介</span></h2>
 	<div id="contents-container" class="">
-
 		<div class="swiper-container slider">
 		    <div class="swiper-wrapper">
 				<?php 
